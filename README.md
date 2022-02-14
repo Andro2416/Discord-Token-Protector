@@ -32,7 +32,9 @@ But this will protect you against most (nearly every) token grabbers.
 
 ### Download the lastest release **[HERE](https://github.com/andro2157/DiscordTokenProtector/releases)**
 
-* Start DiscordTokenProtectorSetup.exe
+* Start DiscordTokenProtectorSetup.exe as ADMIN
+* Check C Drive if any exe named DTP is made
+* If it's made then run that!
 * Select between Normal and NoStartup installation
 * **[Set it up](Setup.md)**
 * ([YubiKey Setup Guide](YubiSetup.md))
